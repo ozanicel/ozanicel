@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Ozan 
 
-<!--
-**ozanicel/ozanicel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student @ CIU | Backend & Cloud Systems Enthusiast
 
-Here are some ideas to get you started:
+### What I'm Working On
+- Building production-ready SaaS architectures & backend systems using Python, Django, REST APIs, and Docker.
+- **Embedded & Hardware:** Developing IoT prototypes and embedded systems (ESP32).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, C++, JavaScript, HTML/CSS
+- **Backend & Web:** Django, RESTful APIs, MySQL
+- **Tools:** Git/GitHub, VS Code, Windows
+
+---
+*Building step by step with engineering discipline.*
